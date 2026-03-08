@@ -166,15 +166,6 @@ For Isaac Lab training setup, see [`simulation/`](./simulation/).
 
 ---
 
-## What's next
-
-- [ ] Add IMU feedback for better stability
-- [ ] Terrain-adaptive walking
-- [ ] Camera + vision-based navigation
-- [ ] Mobile app control
-- [ ] Trot / bound gait modes
-
----
 
 ## License
 
