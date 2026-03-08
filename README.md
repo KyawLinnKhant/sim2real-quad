@@ -2,6 +2,15 @@
 
 > A 3D-printed quadruped robot that learns to walk in simulation and runs on real hardware.
 
+![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-2.x-76B900?logo=nvidia)
+![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy-22314E?logo=ros)
+![PyTorch](https://img.shields.io/badge/PyTorch-JIT-EE4C2C?logo=pytorch)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-UNO_R3-00878F?logo=arduino)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> A 3D-printed quadruped robot that learns to walk in simulation and runs on real hardware.
+
 ![quad_pic](./media/quad_pic.jpg)
 
 https://github.com/user-attachments/assets/a061e2cf-527f-410b-b125-ff09861a9271
