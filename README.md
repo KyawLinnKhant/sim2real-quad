@@ -9,8 +9,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-UNO_R3-00878F?logo=arduino)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> A 3D-printed quadruped robot that learns to walk in simulation and runs on real hardware.
-
 ![quad_pic](./media/quad_pic.jpg)
 
 https://github.com/user-attachments/assets/a061e2cf-527f-410b-b125-ff09861a9271
