@@ -2,7 +2,7 @@
 
 ![quad_pic](./media/quad_pic.jpg)
 
-https://github.com/user-attachments/assets/sim2real.mp4
+https://github.com/user-attachments/assets/a061e2cf-527f-410b-b125-ff09861a9271
 
 **Complete open-source quadruped robot with AI-driven locomotion trained in Isaac Lab and deployed on physical hardware via ROS2.**
 
